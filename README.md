@@ -1,0 +1,2 @@
+# Manie-Online-Grocery-Store
+This program is basic online store that have the basic functions that a normal online store will have. The main menu is divide in two parts. The first part (Manage Store Stock) is for the store owner to manage his store stock. The second part is where user can shop online from the online store. The store has 4 different categories where the stock is listed under : Pasta, Baking Products, Kitchen Cleaners, Bath Aid Toiletries. 
